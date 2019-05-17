@@ -68,6 +68,7 @@ bending stress
 * [ ] Verify mounting hole connection/isolation
 * [ ] Components not physically overlapping/colliding
 * [ ] Clearance provided around solder-in test points for probe tips
+* [ ] All parts are on the right side of the board, if using single side assembly all SMD components are on one side
 
 ## Thermal
 
